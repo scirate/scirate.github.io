@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>scite.github.io</title>
+    <link href="https://scirate.github.io/atom.xml" rel="self" />
+    <link href="https://scirate.github.io" />
+    <id>https://scirate.github.io/atom.xml</id>
+    <author>
+        <name>Scirate Team</name>
+        <email>noonsilk+-scirate@gmail.com</email>
+    </author>
+    <updated>2018-08-26T00:00:00Z</updated>
+    <entry>
+    <title>Welcome to the SciRate Blog!</title>
+    <link href="https://scirate.github.io/posts/2018-08-26-Welcome-To-The-Scirate-Blog.html" />
+    <id>https://scirate.github.io/posts/2018-08-26-Welcome-To-The-Scirate-Blog.html</id>
+    <published>2018-08-26T00:00:00Z</published>
+    <updated>2018-08-26T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<div class="info">
+    Posted on August 26, 2018
+    
+        by Noon van der Silk
+    
+</div>
+
+<div>
+<p>Welcome to the new official blog of <a href="https://scirate.com">SciRate</a>.</p>
+</div>
+<div>
+<p>I’ve started this blog for a few purposes:</p>
+</div>
+<div>
+<ol style="list-style-type: decimal">
+<li><div>
+Engagement with people that use SciRate,
+</div></li>
+<li><div>
+Provide status updates,
+</div></li>
+<li><div>
+Provide commentary on topics that are of interest to us,
+</div></li>
+<li><div>
+Be a platform for people that want to contribute to the ecosystem.
+</div></li>
+</ol>
+</div>
+<div>
+<p>I’d like to hear from you, the users of SciRate, for what you’d like to see here. You can reach me via <a href="mailto:noonsilk+scirate@gmail.com">email</a>. One idea I’d like to explore is guest blog-posts providing coverage of particular research areas.</p>
+</div>
+<div>
+<p>Thanks!</p>
+</div>
+]]></summary>
+</entry>
+
+</feed>
