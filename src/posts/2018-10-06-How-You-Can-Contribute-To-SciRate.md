@@ -67,8 +67,8 @@ If you're interested, get in touch via the [mailing
 list](https://groups.google.com/forum/#!forum/scirate).
 
 I'm also open to other community engagements, such as a slack channel, for
-more free-flowing conversations. If you have an interest in this, then get in
-touch.
+more free-flowing conversations, or guest blogs, as mentioned in the previous
+post. If you have an interest in any of this, then get in touch.
 
 Please also have a careful read of the (new!) [Code of Conduct](https://scirate.com/conduct).
 
