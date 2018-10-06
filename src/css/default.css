@@ -41,11 +41,16 @@ div#header {
 }
 
 div#header h1 a {
+  display: flex;
   font-weight: normal;
+  background: black;
+  color: white;
+  align-items: center;
+  padding: 5px;
+  padding-right: 15px;
 }
 
 div#header h1 a img {
-  background: black;
   padding: 10px;
 }
 
